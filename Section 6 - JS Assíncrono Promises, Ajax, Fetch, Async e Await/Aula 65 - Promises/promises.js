@@ -1,3 +1,5 @@
+// As pormises servem para avitar o uso de callback
+
 function rand(min, max) {
   min *= 1000;
   max *= 1000;

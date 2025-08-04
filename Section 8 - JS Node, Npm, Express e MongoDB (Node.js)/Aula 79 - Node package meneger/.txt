@@ -1,0 +1,29 @@
+Version 
+
+1.    1.     1.
+major minor  patch
+
+Major é para grandes mudanças que quebraram a compatibilidade com arquivos 
+
+minor é para adicionar novas coisas simples
+
+patch normalmente é usada em pequenas mudanças, como correção de bugs
+
+*COMANDOS*
+
+Instala
+npm i express
+
+Altera a dependencia 
+npm express --save-dev
+npm express --save-prod
+
+Desinstalar
+npm uninstall express
+
+Listar pacotes
+npm ls
+npm ls --depth=1
+
+Pacotes desatualizados
+npm outdated
